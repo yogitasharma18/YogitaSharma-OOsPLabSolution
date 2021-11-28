@@ -28,7 +28,7 @@ public class CredentialService {
 	
 	public String showCredentials(Employee emp, String email, String pass)
 	{
-		System.out.println("Dear " + emp.getFirstName() + "your generated credentials are as follows");
+		System.out.println("Dear " + emp.getFirstName() + " your generated credentials are as follows");
 		System.out.println("Email --> "+emailAddress);
 		System.out.println("Pasword --> "+pass);
 		return emailAddress;

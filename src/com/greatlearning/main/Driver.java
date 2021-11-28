@@ -38,7 +38,7 @@ public class Driver {
 				dept ="adm";
 				break;
 			case 3: 
-				dept ="HR";
+				dept ="hr";
 				break;
 			case 4: 
 				dept ="leg";
